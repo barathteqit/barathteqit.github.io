@@ -36,7 +36,7 @@ p {
 /*-- header --*/
 header {
 	padding:10px 0;
-	background: #ffef1b;
+	background: yellow;
 }
 /*-- menu --*/
 .menu {
@@ -52,7 +52,7 @@ header {
     color: #000;
 }
 .nav > li > a:hover, .nav > li > a:focus, .nav > li.active a {
-    background-color: #00c4da;
+    background-color: #ec3434;
     color: #fff;
 }
 .nav .open > a,
@@ -733,7 +733,7 @@ p.w3ls-login a:hover {
 	letter-spacing:1px
 }
 .w3layous-story h4 a {
-    color: #ff0200;
+    color: white;
     padding: 10px 25px;
     background: rgba(0, 0, 0, 0.62);
     border-radius: 3px;
@@ -2144,6 +2144,7 @@ a.hvr-bounce-to-bottom:hover:before,a.hvr-bounce-to-bottom:focus:before,a.hvr-bo
     border-top: 4px solid #00c4da;
     background-size: cover;
     min-height: 430px;
+	float:right;
 }
 .agileits_services h2 {
     text-align: center;
